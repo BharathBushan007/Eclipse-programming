@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-01T14:56:46 IST" name="Default suite" finished-at="2023-12-01T14:58:11 IST" duration-ms="85535">
+    <groups>
+    </groups>
+    <test started-at="2023-12-01T14:56:46 IST" name="Default test" finished-at="2023-12-01T14:58:11 IST" duration-ms="85535">
+      <class name="dataProvider">
+        <test-method signature="dataTest(java.lang.String,java.lang.String)[pri:0, instance:dataProvider@243c4f91]" started-at="2023-12-01T14:56:46 IST" name="dataTest" data-provider="data" finished-at="2023-12-01T14:57:39 IST" duration-ms="53521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method signature="dataTest(java.lang.String,java.lang.String)[pri:0, instance:dataProvider@243c4f91]" started-at="2023-12-01T14:57:39 IST" name="dataTest" data-provider="data" finished-at="2023-12-01T14:57:45 IST" duration-ms="5500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method signature="dataTest(java.lang.String,java.lang.String)[pri:0, instance:dataProvider@243c4f91]" started-at="2023-12-01T14:57:45 IST" name="dataTest" data-provider="data" finished-at="2023-12-01T14:57:47 IST" duration-ms="2699" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method signature="dataTest(java.lang.String,java.lang.String)[pri:0, instance:dataProvider@243c4f91]" started-at="2023-12-01T14:57:47 IST" name="dataTest" data-provider="data" finished-at="2023-12-01T14:57:58 IST" duration-ms="10951" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method signature="dataTest(java.lang.String,java.lang.String)[pri:0, instance:dataProvider@243c4f91]" started-at="2023-12-01T14:57:58 IST" name="dataTest" data-provider="data" finished-at="2023-12-01T14:58:09 IST" duration-ms="10339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[error_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method signature="dataTest(java.lang.String,java.lang.String)[pri:0, instance:dataProvider@243c4f91]" started-at="2023-12-01T14:58:09 IST" name="dataTest" data-provider="data" finished-at="2023-12-01T14:58:11 IST" duration-ms="2494" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[visual_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+      </class> <!-- dataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
